@@ -4,44 +4,49 @@ CAPÍTULO DE INGENIERÍA DEL PETRÓLEO Y PETROQUÍMICA
 
 OCTUBRE - 2021
 
-# Dia 1
+# Dia 1 Software e Introducción
 
-Using medical images to evaluate disease severity and change over time is a routine and important task in clinical decision making. Grading systems are often used, but are unreliable as domain experts disagree on disease severity category thresholds. These discrete categories also do not reflect the underlying continuous spectrum of disease severity. To address these issues, we developed a convolutional Siamese neural network approach to evaluate disease severity at single time points and change between longitudinal patient visits on a continuous spectrum. We demonstrate this in two medical imaging domains: retinopathy of prematurity (ROP) in retinal photographs and osteoarthritis in knee radiographs. Key code related to the retinal photographs are shown here; the knee radiograph code is analogous.
-
-This work is published in npj Digital Medicine entitled "Siamese neural networks for continuous disease severity evaluation and change detection in medical imaging" (https://doi.org/10.1038/s41746-020-0255-1).
-
-Please refer to the manuscript methodology for details. 
+Anaconda y Sublime text (teoría) 
+Instalación del ambiente de trabajo 
+Librerías para interpretación de registros
+Jupyter Notebook conceptos y herramientas
+Indicaciones de la metodología de trabajo
 
 **Requirements**: 
+Instrucciones para instalación del Software Anaconda y Sublime Text
 
-- Python 3.6.7
-- PyTorch 1.1.0
-- CUDA 10.0
-- GPU support
+# Dia 2 Fundamentos y Lectura de archivos con Python
 
-**How to Run**:
+Variables y datos
+Funciones Nativas de Python
+Listas y funciones matemáticas
+Definir funciones
+Funciones matemáticas con librerías
+Importación de Librerías 
+Manejo y visualización de datos
+Cargar datos externos
+Librería para well logs
+Trabajar con dataframe 
+Filtros
+Obtención de valores     
+formulas 
+visualización
 
-The working directory should contain the following Python scripts:
+**Requirements**: 
+Jupyter Notebook
+Archivos LAS
 
-- main.py (training and validation script)
-- eval.py (testing evaluation script)
-- siamese_classes.py (python helper classes)
+# Dia 3 Aplicativos en Streamlit
 
-Run the scripts in an interactive shell, like IPython.
+Gradiente Térmico
+Curvas Tipo
+Well Testing
+Power plant Capacity
+Geophires v2
 
-The working directory should also contain a 'data/' subdirectory, which contains:
+**Requirements**: 
+Streamlit
+Geophires v2
 
-- processed input images 
-- csv files containing annotations for the input images
-
-**Citation**:
-
-If you use this code in your work, please cite: 
-
-Li, M.D., Chang, K., Bearce, B. et al. Siamese neural networks for continuous disease severity evaluation and change detection in medical imaging. npj Digit. Med. 3, 48 (2020). https://doi.org/10.1038/s41746-020-0255-1
-
-**Acknowledgments**:
-
-The Center for Clinical Data Science (CCDS) at Massachusetts General Hospital and the Brigham and Woman's Hospital provided technical and hardware support including access to graphics processing units. The basis of the siamese neural network implementation in PyTorch is also indebted to code shared on GitHub by Harshvardhan Gupta (https://github.com/harveyslash/Facial-Similarity-with-Siamese-Networks-in-Pytorch).
-
-Questions? Contact us at qtimlab@gmail.com.
+💻  Preguntas al siguiente correo: carlosv0410@hotmail.com
+📱   Whatssapp +593998040820
