@@ -13,7 +13,7 @@ OCTUBRE - 2021
 - Indicaciones de la metodología de trabajo
 
 **Requirements**: 
-Instrucciones para instalación del Software Anaconda y Sublime Text
+-Instrucciones para instalación del Software Anaconda y Sublime Text
 
 # Dia 2 Fundamentos y Lectura de archivos con Python
 
@@ -33,8 +33,8 @@ Instrucciones para instalación del Software Anaconda y Sublime Text
 - visualización
 
 **Requirements**: 
-Jupyter Notebook
-Archivos LAS
+-Jupyter Notebook
+-Archivos LAS
 
 # Dia 3 Aplicativos en Streamlit
 
@@ -45,10 +45,10 @@ Archivos LAS
 - Geophires v2
 
 **Requirements**: 
-Streamlit
-Geophires v2
+-Streamlit
+-Geophires v2
 
 # Información y Preguntas
 
-💻  Correo: carlosv0410@hotmail.com
-📱   Whatssapp +593998040820
+- 💻  Correo: carlosv0410@hotmail.com
+- 📱   Whatssapp +593998040820
